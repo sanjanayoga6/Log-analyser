@@ -1,0 +1,9 @@
+Library requirements:
+
+1.argparse
+2.os
+3.re
+4.csv
+5.pandas as pd
+6.matplotlib.pyplot as plt
+7.plotly.express as px
