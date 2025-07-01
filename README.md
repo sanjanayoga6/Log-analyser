@@ -13,7 +13,7 @@ Log Analyser CLI Tool
 **Input**
 Log Entry Example:
 
-0x1A2B[ts:1719462390]|EVNT:XR-EXEC!@KILL_usr:admin=>C:\Windows\cmd.exe
+<LogID>[ts:<Timestamp>]|EVNT:<EventType>!@<Action>_<Specifier>:<User>=><Target>
 
 **Output**
 
